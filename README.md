@@ -7,6 +7,7 @@ The purpose of this project was to check how diffrent participants corresponds w
 
 ### Dataset
 The project utilizes a powerlifting dataset containing relevant information such as lifters' weight classes, their performance metrics (e.g., benchpress, squat, and deadlift), gender, age, and other demographic details.
+
 Dataset: https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-10-08/ipf_lifts.csv
 
 ### Used methods
