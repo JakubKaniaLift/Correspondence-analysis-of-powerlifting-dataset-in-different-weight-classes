@@ -208,7 +208,7 @@ chisq.test(female_100_m)
 heatmap(female_100_m,scale="none",Colv=NA,col= brewer.pal(8,"Oranges"))
 
 #_______________________________________________________________________________
-#Plots for Correspondence-analysis (best in each weight class)
+#Plots for Correspondence-analysis (best 20: men 93kg class and female 63Kg class)
 par(bty = 'n',yaxt="n",xaxt="n")
 
 ##Men
