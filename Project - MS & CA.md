@@ -23,7 +23,7 @@ Columns are:
 3. event <- B (bench), SB (squat, bench), SBD (squat, bench, deadlift)
 4. equipment <- used equipment in event
 5. age 
-6. qge_class
+6. age_class
 7. division
 8. bodyweight_kg
 9. weight_class_kg
